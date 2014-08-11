@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Bruce and Max are best friends forever.
 Next Line
 Awake Now
+=======
+Bruce and Max were best friends forever...until they weren't...
+>>>>>>> e56170776026d03bf53c5afb9883a58f4f941778
